@@ -1,0 +1,315 @@
+nome_aluno,curso,matrícula,usuário,e-mail,sexo
+GUILHERME BATISTA PANIAGO,SISTEMAS DE INFORMAÇÃO,201100396,guilhermepaniago,guilhermepaniago@discente.ufg.br,M
+GILMAR ALVES BERNARDES JÚNIOR,SISTEMAS DE INFORMAÇÃO,201107210,gilmar_bernardes,gilmar_bernardes@discente.ufg.br,F
+VIVIANE SOUSA DE MELO,CIÊNCIA DA COMPUTAÇÃO,201307874,vivianemelo,vivianemelo@discente.ufg.br,F
+KARINE PIRES DE ARAÚJO,CIÊNCIA DA COMPUTAÇÃO,201402567,karinepires,karinepires@egresso.ufg.br,F
+JOÃO PEDRO SILVA DE MORAIS,SISTEMAS DE INFORMAÇÃO,201404922,joao3097,joao3097@discente.ufg.br,M
+RHUAN BRUNO SILVA SANTIAGO,SISTEMAS DE INFORMAÇÃO,201406241,rhuanbruno,rhuanbruno@discente.ufg.br,M
+MARCOS VINICIUS VIEIRA DA SILVA,SISTEMAS DE INFORMAÇÃO,201407255,marcos_vieira,marcos_vieira@discente.ufg.br,M
+LEIDIANE BEATRIZ PASSOS RODRIGUES,CIÊNCIA DA COMPUTAÇÃO,201407352,leidianebeatriz,leidianebeatriz@egresso.ufg.br,F
+PEDRO ANICETO PEREIRA DE OLIVEIRA,CIÊNCIA DA COMPUTAÇÃO,201407362,pedropereira,pedropereira@egresso.ufg.br,M
+BRENO CRUVINEL MARINHO,SISTEMAS DE INFORMAÇÃO,201408155,brenocruvinel,brenocruvinel@egresso.ufg.br,M
+FELIPE GABRIEL NUNES SENA,ENGENHARIA DE COMPUTAÇÃO,201508634,felipe.gabriel83,felipe.gabriel83@discente.ufg.br,M
+RAPHAEL GONCALVES DOS SANTOS,SISTEMAS DE INFORMAÇÃO,201510704,raphael.santos,raphael.santos@discente.ufg.br,M
+RODRIGO OLIVEIRA BARROS,SISTEMAS DE INFORMAÇÃO,201510708,rodrigo.barros,rodrigo.barros@discente.ufg.br,M
+GUSTAVO ANTUNES ROCHA,SISTEMAS DE INFORMAÇÃO,201513444,gustavo.antunes,gustavo.antunes@discente.ufg.br,M
+IGOR GABRIEL CHAVES DOS SANTOS,MATEMÁTICA,201516332,igorgabriell32,igorgabriell32@discente.ufg.br,M
+CLEINER SOUZA DE JESUS,CIÊNCIA DA COMPUTAÇÃO,201600720,cleinersouza,cleinersouza@discente.ufg.br,M
+DAVID ANTÔNIO TEIXEIRA DE MORAES BARROS,SISTEMAS DE INFORMAÇÃO,201606144,davidbarros,davidbarros@discente.ufg.br,M
+FABIO OFUGI MIKAMI,SISTEMAS DE INFORMAÇÃO,201606146,fabio_ofugi,fabio_ofugi@discente.ufg.br,M
+JECSON SILVA BARBOSA,SISTEMAS DE INFORMAÇÃO,201606161,jecson,jecson@discente.ufg.br,M
+LUAN MACEDO GALVAO DE OLIVEIRA,SISTEMAS DE INFORMAÇÃO,201606177,luanmacedo,luanmacedo@discente.ufg.br,M
+MARCOS VINÍCIUS DE SOUZA OLIVEIRA,SISTEMAS DE INFORMAÇÃO,201606185,marcosoliver,marcosoliver@egresso.ufg.br,M
+VANESSA BRENDA SILVA SOBRINHO,SISTEMAS DE INFORMAÇÃO,201606204,vanessabrenda,vanessabrenda@egresso.ufg.br,F
+GABRIEL LIRA CALIL,CIÊNCIA DA COMPUTAÇÃO,201606673,glcalil,glcalil@discente.ufg.br,M
+GEOVANNY MAGALHÃES NOVAIS,CIÊNCIA DA COMPUTAÇÃO,201606675,gnovais,gnovais@discente.ufg.br,M
+CARDEQUE HENRIQUE BITTES DE ALVARENGA BORGES,SISTEMAS DE INFORMAÇÃO,201607889,cardeque,cardeque@discente.ufg.br,M
+LUIS EDUARDO PEIXOTO DE AQUINO,SISTEMAS DE INFORMAÇÃO,201607901,luis.eduardo,luis.eduardo@discente.ufg.br,M
+KLAYTON SILVA VASCONCELOS JÚNIOR,ENGENHARIA DE COMPUTAÇÃO,201609817,klayton23,klayton23@discente.ufg.br,M
+CLEVERSON LUIZ EPIFANIO DE OLIVEIRA,SISTEMAS DE INFORMAÇÃO,201610450,cleverson_luiz,cleverson_luiz@discente.ufg.br,M
+GABRIEL GONCALVES DE OLIVEIRA,CIÊNCIA DA COMPUTAÇÃO,201611025,gabrielgoliveira,gabrielgoliveira@discente.ufg.br,M
+RAFAEL LANGARO PASSARINHO,CIÊNCIA DA COMPUTAÇÃO,201611045,rafael.passarinho,rafael.passarinho@discente.ufg.br,M
+DIOGO MATHIAS PORTUGAL,SISTEMAS DE INFORMAÇÃO,201613264,mathias.diogo,mathias.diogo@discente.ufg.br,M
+DRIELLY GONÇALVES DE OLIVEIRA,SISTEMAS DE INFORMAÇÃO,201613265,driellygoncalves,driellygoncalves@egresso.ufg.br,F
+JÉSSIKA SOUZA DOS SANTOS,SISTEMAS DE INFORMAÇÃO,201617273,jessika.souza,jessika.souza@discente.ufg.br,F
+RAFAEL RORIZ DE MENEZES PEREIRA,CIÊNCIA DA COMPUTAÇÃO,201700111,rafaelroriz,"rafaelroriz@discente,ufg,br",M
+BRUNO GOMES DE ALMEIDA,SISTEMAS DE INFORMAÇÃO,201700600,brunog0,brunog0@discente.ufg.br,M
+CAIO MARCEL QUEIROZ BARROS,SISTEMAS DE INFORMAÇÃO,201700601,caiomarcel,caiomarcel@discente.ufg.br,M
+JUNNO LUCIO LOPES GUIMARAES JACOB,SISTEMAS DE INFORMAÇÃO,201700605,junnojacob,junnojacob@discente.ufg.br,M
+KARLLA BIANCA CHAVES RODRIGUES,SISTEMAS DE INFORMAÇÃO,201700606,karllachaves,karllachaves@discente.ufg.br,F
+MARCOS VINICIUS FIGUEIRA VIEIRA GONZAGA,SISTEMAS DE INFORMAÇÃO,201700608,marcosviniciusfvg,marcosviniciusfvg@discente.ufg.br,M
+MATHEUS DINIZ ALENCAR,SISTEMAS DE INFORMAÇÃO,201700609,matheusmda,matheusmda@discente.ufg.br,M
+ADRIANO FERREIRA DE CASTRO,CIÊNCIA DA COMPUTAÇÃO,201702722,adrianoferreira,adrianoferreira@discente.ufg.br,M
+CLAUDIO HENRIQUE OLIVEIRA RIBEIRO,CIÊNCIA DA COMPUTAÇÃO,201702733,claudio.henrique,claudio.henrique@discente.ufg.br,M
+EDUARDO SANTOS GRUN,CIÊNCIA DA COMPUTAÇÃO,201702736,eduardo.santos.grun,eduardo.santos.grun@discente.ufg.br,M
+JOVIRO ROCHA NETO,CIÊNCIA DA COMPUTAÇÃO,201702764,jovirorocha,jovirorocha@discente.ufg.br,M
+PAULO HENRIQUE SANTOS LIMA,CIÊNCIA DA COMPUTAÇÃO,201702779,pauloh,pauloh@discente.ufg.br,M
+RAFAELA MONTES MARTINS,CIÊNCIA DA COMPUTAÇÃO,201702784,rafaela_montes,rafaela_montes@discente.ufg.br,F
+WENDEL MARQUES DE JESUS SOUZA,CIÊNCIA DA COMPUTAÇÃO,201702793,wendelmjs,wendelmjs@discente.ufg.br,M
+TALLES NETTO BARROS,ENGENHARIA DE COMPUTAÇÃO,201703730,tallesnetto,"tallesnetto@discente,ufg,br",M
+ERIC DE JESUS MACHADO,ENGENHARIA DE SOFTWARE,201703749,ericmachado,ericmachado@discente.ufg.br,M
+JOSENILTON SANTOS DE JESUS,ENGENHARIA DE SOFTWARE,201703762,joseniltonjesus,joseniltonjesus@discente.ufg.br,M
+MATHEUS VINICIUS DIAS RIBEIRO,ENGENHARIA DE SOFTWARE,201703766,mvdl_l,mvdl_l@discente.ufg.br,M
+RANDERSON FRANCELES DE SOUSA FONCECA,ENGENHARIA DE SOFTWARE,201703768,randersonfranceles,randsfranceles@gmail.com,M
+ODINEY SOUZA DA PAIXÃO,ENGENHARIA ELÉTRICA,201703828,odineysouza,odineysouza@discente.ufg.br,M
+EDUARDO SANTOS SANTANA,FÍSICA,201704226,santoseduardo,santoseduardo@discente.ufg.br,M
+GABRIEL BARROS DE OLIVEIRA,SISTEMAS DE INFORMAÇÃO,201705599,gabrielgyn37,gabrielgyn37@discente.ufg.br,M
+GABRIEL CAMPOS E ALARCÃO,SISTEMAS DE INFORMAÇÃO,201705600,gabrielalarcao,gabrielalarcao@discente.ufg.br,M
+GABRIEL CRISTHIE BANDEIRA DOS SANTOS,SISTEMAS DE INFORMAÇÃO,201705601,gabrielsantos,gabrielsantos@discente.ufg.br,M
+HENRIQUE GUIMARÃES RIBEIRO,SISTEMAS DE INFORMAÇÃO,201705606,rique223,rique223@discente.ufg.br,M
+JAIR FRISON JUNIOR,SISTEMAS DE INFORMAÇÃO,201705613,jair.frison,jair.frison@discente.ufg.br,M
+JAMES LIMA CIPRIANO MOTA,SISTEMAS DE INFORMAÇÃO,201705614,james_lima,james_lima@discente.ufg.br,M
+JOÃO PEDRO BARBOSA LEÃO,SISTEMAS DE INFORMAÇÃO,201705616,joaopedrobl,joaopedrobl@discente.ufg.br,M
+KESLEY DE SOUSA NASCIMENTO,SISTEMAS DE INFORMAÇÃO,201705620,kesleysousa,kesleysousa@discente.ufg.br,M
+MARCIO SANTOME ALCOVIAS FILHO,SISTEMAS DE INFORMAÇÃO,201705625,smarcio,smarcio@discente.ufg.br,M
+MURILO ROSA DIAS,SISTEMAS DE INFORMAÇÃO,201705631,murilo_rd,murilo_rd@discente.ufg.br,M
+PAULO VICTOR PASSOS,SISTEMAS DE INFORMAÇÃO,201705634,paulovictorpassos,paulovictorpassos@discente.ufg.br,M
+PEDRO HENRIQUE ALVES DOS SANTOS,SISTEMAS DE INFORMAÇÃO,201705635,pedro135464henrique,pedro135464henrique@discente.ufg.br,M
+RAFAEL DE SOUZA TAKANO,SISTEMAS DE INFORMAÇÃO,201705637,rafaeltakano,rafaeltakano@discente.ufg.br,M
+RAFAEL JUNQUEIRA COUTINHO,SISTEMAS DE INFORMAÇÃO,201705638,rafaeljunqueira,rafaeljunqueira@discente.ufg.br,M
+THIAGO DOS SANTOS SILVA,SISTEMAS DE INFORMAÇÃO,201705644,thiagosantos346,thiagosantos346@discente.ufg.br,M
+VINÍCIUS FERREIRA DE OLIVEIRA,SISTEMAS DE INFORMAÇÃO,201705645,viniciusdeoliveir4,viniciusdeoliveir4@discente.ufg.br,M
+WEVERTON FERREIRA RODRIGUES,SISTEMAS DE INFORMAÇÃO,201705650,wevertonfr,wevertonfr@discente.ufg.br,M
+GABRIEL ALVES DE SOUZA,SISTEMAS DE INFORMAÇÃO,201706939,gabriel_al,gabriel_al@discente.ufg.br,M
+DANIELA FERNANDES DO NASCIMENTO,CIÊNCIA DA COMPUTAÇÃO,201708650,fdaniela,fdaniela@discente.ufg.br,F
+ELTON VIVOT DIAS,CIÊNCIA DA COMPUTAÇÃO,201708651,eltonvivot,eltonvivot@discente.ufg.br,M
+VITOR ROBERTO GONÇALVES MENDES,CIÊNCIA DA COMPUTAÇÃO,201708667,vitormendes,vitormendes@discente.ufg.br,M
+JOEL FELIPPE BARBOSA DE OLIVEIRA VELLOSO,ENGENHARIA DE COMPUTAÇÃO,201708992,joel_felippe_velloso,joel_felippe_velloso@discente.ufg.br,M
+JEFFERSON PEREIRA DA SILVA,ENGENHARIA DE SOFTWARE,201709006,jefferson_pereira,jefferson_pereira@discente.ufg.br,M
+OCTÁVIO AUGUSTO PIRES RIBEIRO LO LEGGIO,ENGENHARIA DE SOFTWARE,201709009,ottoleggio,ottoleggio@egresso.ufg.br,M
+ALAN VIANA DO NASCIMENTO,SISTEMAS DE INFORMAÇÃO,201709624,alanviana,alanviana@discente.ufg.br,M
+CHRISTIAN ALEXANDRE MENDANHA RODRIGUES,SISTEMAS DE INFORMAÇÃO,201709627,christianalexandre,christianalexandre@discente.ufg.br,M
+CLEMERSON OLIVEIRA DOS SANTOS,SISTEMAS DE INFORMAÇÃO,201709628,clemerson_oliveira,clemerson_oliveira@discente.ufg.br,M
+DANIELLY DE MORAES SANTOS,SISTEMAS DE INFORMAÇÃO,201709629,inadran,inadran@discente.ufg.br,F
+FELIPE ARAÚJO SANTANA,SISTEMAS DE INFORMAÇÃO,201709632,felipe.santana732,felipe.santana732@discente.ufg.br,M
+MARIA EDUARDA ALVES BEZERRA,SISTEMAS DE INFORMAÇÃO,201709640,maria.eduardaab,maria.eduardaab@discente.ufg.br,F
+PABLO ALEXANDRE SOUZA BARROS,SISTEMAS DE INFORMAÇÃO,201709644,pablo.barros1@outlook.com,pablo.barros1@outlook.com,M
+VINICIUS RODRIGUES DE OLIVEIRA,GEOLOGIA,201709715,vrodrigues195,vrodrigues195@discente.ufg.br,M
+JOÃO PEDRO MARQUES ALVES,CIÊNCIA DA COMPUTAÇÃO,201710249,joaopedrom,joaopedrom@discente.ufg.br,M
+GABRIELL CASTRO DE CARVALHO,SISTEMAS DE INFORMAÇÃO,201712263,gabriellcarvalho,gabriellcarvalho@discente.ufg.br,M
+MATEUS NEVES VOLTOLIM SATELIS,SISTEMAS DE INFORMAÇÃO,201712288,mateus_voltolim,mateus_voltolim@discente.ufg.br,M
+RAFAEL DE CASTRO FREITAS,SISTEMAS DE INFORMAÇÃO,201712295,castro.r,castro.r@discente.ufg.br,M
+JOAO PEDRO CAMPOS CONSTANTINO,CIÊNCIA DA COMPUTAÇÃO,201800087,pedrocns,pedrocns@discente.ufg.br,M
+GUSTAVO HENRIQUE DE FREITAS MARTINS,ENGENHARIA DE SOFTWARE,201800227,gustavomartins,gustavomartins@discente.ufg.br,M
+DAN SAMUEL MAIA LAGOA,SISTEMAS DE INFORMAÇÃO,201800493,dansamuel,dansamuel@discente.ufg.br,M
+LUCAS AUGUSTO HUNGERBUHLER,SISTEMAS DE INFORMAÇÃO,201800497,lucashungerbuhler,lucashungerbuhler@discente.ufg.br,M
+MARCUS VINÍCIUS DUARTE DA SILVA BRANDÃO,SISTEMAS DE INFORMAÇÃO,201800499,marcus.vinicius,marcus.vinicius@egresso.ufg.br,M
+ALEXANDRE OLIVEIRA DE PAULA COSTA,CIÊNCIA DA COMPUTAÇÃO,201801473,alexandreodpc,alexandreodpc@discente.ufg.br,M
+ARTHUR CAVALCANTE DE ANDRADE,CIÊNCIA DA COMPUTAÇÃO,201801479,arthurcavalcante,arthurcavalcante@discente.ufg.br,M
+DOUGLAS SOUSA JORGE,CIÊNCIA DA COMPUTAÇÃO,201801489,douglas541,douglas541@discente.ufg.br,M
+FRANCIELLY DE SOUZA ALMEIDA,CIÊNCIA DA COMPUTAÇÃO,201801494,franciellysouza,franciellysouza@discente.ufg.br,F
+GABRIEL DE FREITAS MENDES,CIÊNCIA DA COMPUTAÇÃO,201801497,gabriel_freitas,gabriel_freitas@discente.ufg.br,M
+GABRIEL MARTINS GOMES,CIÊNCIA DA COMPUTAÇÃO,201801498,gabriel.martins,gabriel.martins@discente.ufg.br,M
+ISAAC BRASIL OLIVEIRA,CIÊNCIA DA COMPUTAÇÃO,201801503,isaacbrasil,isaacbrasil@discente.ufg.br,M
+JOAO VICTOR FERNANDES,CIÊNCIA DA COMPUTAÇÃO,201801506,joaovictorfe,joaovictorfe@discente.ufg.br,M
+KLEIBE JACINTO DE ARAUJO FILHO,CIÊNCIA DA COMPUTAÇÃO,201801513,kleibejacinto,kleibejacinto@discente.ufg.br,M
+MARCOS PAULO SILVA,CIÊNCIA DA COMPUTAÇÃO,201801520,marcos_paulo,marcos_paulo@discente.ufg.br,M
+MATHEUS LÁZARO HONÓRIO DA SILVA,CIÊNCIA DA COMPUTAÇÃO,201801523,matheuscrf09,matheuscrf09@discente.ufg.br,M
+MATHEUS MELO DA COSTA,CIÊNCIA DA COMPUTAÇÃO,201801525,matheus.melo,matheus.melo@discente.ufg.br,M
+RAFAEL DE CASTRO MEDRADO,CIÊNCIA DA COMPUTAÇÃO,201801533,rafaelcmedrado,rafaelcmedrado@discente.ufg.br,M
+RUBEVALDO ALVES DE OLIVEIRA JUNIOR,CIÊNCIA DA COMPUTAÇÃO,201801539,rubevaldojunior,rubevaldojunior@discente.ufg.br,M
+THIAGO MONTELES DE SOUSA,CIÊNCIA DA COMPUTAÇÃO,201801540,thiagomonteles,thiagomonteles@discente.ufg.br,M
+VINÍCIO VIEIRA DOS SANTOS,CIÊNCIA DA COMPUTAÇÃO,201801542,vvs50,vvs50@discente.ufg.br,M
+VINICIUS LELES FEITOSA,CIÊNCIA DA COMPUTAÇÃO,201801543,lelesf99,"lelesf99@discente,ufg,br",M
+RANDRIK TAVEIRA SILVA COSTA,CIÊNCIAS ECONÔMICAS,201801838,randrikt,randrikt@discente.ufg.br,M
+ARTHUR GONÇALVES DE SALES,SISTEMAS DE INFORMAÇÃO,201804638,arthurgsales,arthurgsales@discente.ufg.br,M
+ARTUR FRAZÃO DA CUNHA LIMA,SISTEMAS DE INFORMAÇÃO,201804639,arturfrazaolima,arturfrazaolima@discente.ufg.br,M
+ATILA PEREIRA DA SILVA ALARCON XAVIER,SISTEMAS DE INFORMAÇÃO,201804640,atilaalarcon,atilaalarcon@discente.ufg.br,M
+CARLOS HENRIQUE SILVA BISPO RODRIGUES,SISTEMAS DE INFORMAÇÃO,201804642,carlos_rodrigues,carlos_rodrigues@discente.ufg.br,M
+FABIO TIAGO VIEIRA SOARES MARQUES,SISTEMAS DE INFORMAÇÃO,201804646,fabiotvsm,fabiotvsm@discente.ufg.br,M
+FELIPE ALVES FETTINE,SISTEMAS DE INFORMAÇÃO,201804647,felipefettine,felipefettine@discente.ufg.br,M
+GABRIEL FERNANDES SILVEIRA,SISTEMAS DE INFORMAÇÃO,201804652,gabrieofs,gabrieofs@discente.ufg.br,M
+GABRIEL HENRIQUE VELOSO PEREIRA DE BARROS,SISTEMAS DE INFORMAÇÃO,201804653,gabrielhvp,gabrielhvp@discente.ufg.br,M
+GABRIEL MARINHO DE SALES,SISTEMAS DE INFORMAÇÃO,201804655,gabrielnoxus,gabrielnoxus@discente.ufg.br,M
+GETÚLIO CARVALHO SILVA,SISTEMAS DE INFORMAÇÃO,201804657,getuliocarvalho,getuliocarvalho@discente.ufg.br,M
+HYAGO COELHO TEODORO DE REZENDE,SISTEMAS DE INFORMAÇÃO,201804661,hyagorezende,hyagorezende@discente.ufg.br,M
+ISLAINE ALVES COSTA,SISTEMAS DE INFORMAÇÃO,201804663,islainealves,islainealves@discente.ufg.br,F
+JAIRO JOSÉ DA SILVA JUNIOR,SISTEMAS DE INFORMAÇÃO,201804664,jjairo,jjairo@discente.ufg.br,M
+JEFERSON DA SILVA CARVALHO,SISTEMAS DE INFORMAÇÃO,201804665,jeferson,jeferson@discente.ufg.br,M
+JOÃO VICTOR TEODORO FLEURY,SISTEMAS DE INFORMAÇÃO,201804667,fle.daher,fle.daher@discente.ufg.br,M
+LEONARDO FERNANDES SIQUEIRA,SISTEMAS DE INFORMAÇÃO,201804674,leonardo.fernandes,leonardo.fernandes@discente.ufg.br,M
+LUCAS FREIRE TIZZO,SISTEMAS DE INFORMAÇÃO,201804675,lucastizzo,lucastizzo@discente.ufg.br,M
+LUCAS SILVA IRINEU,SISTEMAS DE INFORMAÇÃO,201804678,lucas_si,lucas_si@discente.ufg.br,M
+LUCAS TEIXEIRA MARTINS,SISTEMAS DE INFORMAÇÃO,201804679,lucas.teixeira,lucas.teixeira@discente.ufg.br,M
+MYLENA MARIANA PIRES BARBOSA,SISTEMAS DE INFORMAÇÃO,201804692,mylenamariana,mylenamariana@discente.ufg.br,F
+RAFAEL SOUZA NASCIMENTO,SISTEMAS DE INFORMAÇÃO,201804703,rafaielll,rafaielll@discente.ufg.br,M
+RAFAELLA ALVES MARTINS,SISTEMAS DE INFORMAÇÃO,201804704,rafaellaalves,rafaellaalves@discente.ufg.br,F
+REBECCA GABRIELLE TEIXEIRA DA PAIXAO DE MORAES,SISTEMAS DE INFORMAÇÃO,201804706,rebecca,rebecca@ufg.br,F
+THIAGO FILIPE STIVAL OLIVEIRA,SISTEMAS DE INFORMAÇÃO,201804708,thiagofilipe.stival,thiagofilipe.stival@discente.ufg.br,M
+WALLISON KAUY LUSTOSA ALVES,SISTEMAS DE INFORMAÇÃO,201804710,wallison.kauy,wallison.kauy@discente.ufg.br,M
+WILKER CORDEIRO DE MACEDO,SISTEMAS DE INFORMAÇÃO,201804713,wilkermacedo,wilkermacedo@discente.ufg.br,M
+HILDEVAM VIEIRA COSTA,SISTEMAS DE INFORMAÇÃO,201807197,hildevan12,hildevan12@discente.ufg.br,M
+MARCELO HENRIQUE SOARES LINO,CIÊNCIA DA COMPUTAÇÃO,201807820,marcelosoares,marcelosoares@discente.ufg.br,M
+ARTHUR CASTRO DA CUNHA,ENGENHARIA DE SOFTWARE,201808801,arthur.castro,arthur.castro@discente.ufg.br,M
+BRYAN RODRIGUES BENTO,SISTEMAS DE INFORMAÇÃO,201810096,bryanip,bryanip@discente.ufg.br,M
+FAGNER DE SOUZA SANTOS,SISTEMAS DE INFORMAÇÃO,201810103,fagnersouza,fagnersouza@discente.ufg.br,M
+JOÃO VICTOR BRAGA QUEIROZ,SISTEMAS DE INFORMAÇÃO,201810114,joaovictorbragaqueiroz,joaovictorbragaqueiroz@discente.ufg.br,M
+MATHEUS RIBEIRO DE SOUZA,SISTEMAS DE INFORMAÇÃO,201810123,matheus100.gt58@gmail.com,matheus100.gt58@gmail.com,M
+NICHOLAS YGOR CARVALHO CÂMARA,SISTEMAS DE INFORMAÇÃO,201810127,nickcamara,nickcamara@discente.ufg.br,M
+RAFAEL CARDOSO MOTA,SISTEMAS DE INFORMAÇÃO,201810130,rafael_mota,rafael_mota@discente.ufg.br,M
+THAILANE LOPES DUTRA,SISTEMAS DE INFORMAÇÃO,201810133,thailanelopes,thailanelopes@discente.ufg.br,F
+PAULO VICTOR ROCHA DE ALMEIDA,CIÊNCIA DA COMPUTAÇÃO,201811463,vpaulovictor,vpaulovictor@discente.ufg.br,M
+EDUARDO GABRIEL LOURENCO MUNIZ,SISTEMAS DE INFORMAÇÃO,201811605,dudugabriel,dudugabriel@discente.ufg.br,M
+RODRIGO YUJI OKIDA TAMOTO,SISTEMAS DE INFORMAÇÃO,201811626,rodrigoyuji,rodrigoyuji@discente.ufg.br,M
+FILIPE SILVEIRA CHAVES,CIÊNCIA DA COMPUTAÇÃO,201900057,filipechaves,filipechaves@discente.ufg.br,M
+GÉWISCA BÁRBARA FERREIRA SANTOS,SISTEMAS DE INFORMAÇÃO,201900593,gewiscabarbara,gewiscabarbara@discente.ufg.br,F
+KENNEDY ALVES REZENDE,SISTEMAS DE INFORMAÇÃO,201900597,kennedyrezende,kennedyrezende@discente.ufg.br,M
+MATHEUS PAMPLONA OLIVEIRA,SISTEMAS DE INFORMAÇÃO,201900600,matheus.pamplona,matheus.pamplona@discente.ufg.br,M
+PEDRO VICTOR DOURADO SILVA,ENGENHARIA DE PRODUÇÃO,201900612,pedro_dourado,pedro_dourado@discente.ufg.br,M
+MICKAEL MENDES MESQUITA,CIÊNCIA DA COMPUTAÇÃO,201900967,mickaelmendes50,mickaelmendes50@discente.ufg.br,M
+GUILHERME NOGUEIRA COELHO SALGADO,CIÊNCIA DA COMPUTAÇÃO,201904213,guilhermenogueira,guilhermenogueira@discente.ufg.br,M
+GUSTAVO BRUNO RODRIGUES SILVA,CIÊNCIA DA COMPUTAÇÃO,201904215,gustavobruno,gustavobruno@discente.ufg.br,M
+HEITOR SILVESTRE DE PAIVA,CIÊNCIA DA COMPUTAÇÃO,201904217,heitorpaiva,heitorpaiva@discente.ufg.br,M
+INGRID PORTILHO DA SILVA,CIÊNCIA DA COMPUTAÇÃO,201904221,ingridportilho,ingridportilho@discente.ufg.br,F
+LUAN CESAR DUTRA CARVALHO,CIÊNCIA DA COMPUTAÇÃO,201904231,luan_cesar,luan_cesar@discente.ufg.br,M
+LUIS FELIPE LINO ZAIDEN ASSIS,CIÊNCIA DA COMPUTAÇÃO,201904236,luisjti,luisjti@discente.ufg.br,M
+THIAGO DE JESUS PERARO,CIÊNCIA DA COMPUTAÇÃO,201904260,peraro.thiago,peraro.thiago@discente.ufg.br,M
+HENRIQUE ELIAS LUCAS MOREIRA,ENGENHARIA CIVIL,201905318,henriqueelias,henriqueelias@discente.ufg.br,M
+PHABLO TAVARES PAIXÃO,ENGENHARIA DE COMPUTAÇÃO,201905470,phablotavares,phablotavares@discente.ufg.br,M
+ARTHUR MOURA BERNARDO,ENGENHARIA DE SOFTWARE,201905523,arthurbernardo,arthurbernardo@discente.ufg.br,M
+BEATRIZ MENEZES DE OLIVEIRA,ENGENHARIA DE SOFTWARE,201905525,beatrizmenezes,beatrizmenezes@discente.ufg.br,F
+FELIPE RAMOS KAFURI,ENGENHARIA DE SOFTWARE,201905528,felipekafuri,felipekafuri@discente.ufg.br,M
+GIANCARLO OLIVEIRA SILVA,ENGENHARIA DE SOFTWARE,201905531,giancarlosilva,giancarlosilva@discente.ufg.br,M
+MARCO FEITOSA ARAUJO,ENGENHARIA DE SOFTWARE,201905542,marcofeitosa,marcofeitosa@discente.ufg.br,M
+MATEUS DA SILVEIRA BATISTA,ENGENHARIA DE SOFTWARE,201905543,mateussilveira,mateussilveira@discente.ufg.br,M
+PEDRO PAULO OLIVEIRA LOPES,ENGENHARIA DE SOFTWARE,201905548,pedrolopes,pedrolopes@discente.ufg.br,M
+RICARDO SILVA FERREIRA,ENGENHARIA DE SOFTWARE,201905554,ricardosilva,ricardosilva@discente.ufg.br,M
+ANDRESSA ALMEIDA DOS SANTOS,SISTEMAS DE INFORMAÇÃO,201907445,andressaalmeida,andressaalmeida@discente.ufg.br,F
+ARTHUR CACERES MELO,SISTEMAS DE INFORMAÇÃO,201907446,melo_arthur,melo_arthur@discente.ufg.br,M
+BRUNO ALVES DOS REIS,SISTEMAS DE INFORMAÇÃO,201907447,br.alves,br.alves@discente.ufg.br,M
+BRUNO LOPES SANTOS,SISTEMAS DE INFORMAÇÃO,201907448,lopes_santos,lopes_santos@discente.ufg.br,M
+CLAUDIO DA SILVA PINHEIRO JUNIOR,SISTEMAS DE INFORMAÇÃO,201907449,claudiospj,claudiospj@discente.ufg.br,M
+EDUARDO RODRIGUES BERNARDES,SISTEMAS DE INFORMAÇÃO,201907452,eduardoro,eduardoro@discente.ufg.br,M
+EVALDO FELIPE LIMA,SISTEMAS DE INFORMAÇÃO,201907454,evaldofelipe,evaldofelipe@discente.ufg.br,M
+FELIPE CALACA RODRIGUES,SISTEMAS DE INFORMAÇÃO,201907455,felipecalaca,felipecalaca@discente.ufg.br,M
+FILIPE CASTRO SARAIVA,SISTEMAS DE INFORMAÇÃO,201907459,filipecastrosaraiva,filipecastrosaraiva@discente.ufg.br,M
+GABRIEL SILVA MIRANDA,SISTEMAS DE INFORMAÇÃO,201907464,gabriel.miranda,gabriel.miranda@discente.ufg.br,M
+GIOVANNA WALESKA THEODORO BARBOSA,SISTEMAS DE INFORMAÇÃO,201907465,waleskatheodoro,waleskatheodoro@discente.ufg.br,F
+GUSTAVO GOULART CALDAS ARAUJO,SISTEMAS DE INFORMAÇÃO,201907467,gustavo.goul,gustavo.goul@discente.ufg.br,M
+IAN MORAES EDUARDO,SISTEMAS DE INFORMAÇÃO,201907471,ianeduardo,ianeduardo@discente.ufg.br,M
+IGOR MATEUS FRANCA DINIZ LOVI,SISTEMAS DE INFORMAÇÃO,201907472,igormateus,igormateus@discente.ufg.br,M
+ILIO ALVES GOMES JUNIOR,SISTEMAS DE INFORMAÇÃO,201907473,ilio,ilio@discente.ufg.br,M
+JOSE CALEBE DE SOUSA,SISTEMAS DE INFORMAÇÃO,201907477,calebe_sousa,calebe_sousa@discente.ufg.br,M
+KALLEBE GOMES BEZERRA,SISTEMAS DE INFORMAÇÃO,201907478,kallebegomes,kallebegomes@discente.ufg.br,M
+LEONAN RAMOS CARNEIRO,SISTEMAS DE INFORMAÇÃO,201907480,leonanramos,leonanramos@discente.ufg.br,M
+LUIZ ANTONIO ROBERTO GROOTERS JUNIOR,SISTEMAS DE INFORMAÇÃO,201907483,grootersluiz,grootersluiz@discente.ufg.br,M
+MARCOS GABRIEL GONZAGA DE JESUS,SISTEMAS DE INFORMAÇÃO,201907485,de_marcos,de_marcos@discente.ufg.br,M
+MARCUS VINICIUS MENDES JACOB,SISTEMAS DE INFORMAÇÃO,201907487,marcusjacob,marcusjacob@discente.ufg.br,M
+MATHEUS GUIMARAES VIEIRA MARQUES,SISTEMAS DE INFORMAÇÃO,201907491,matheus_guimaraes,matheus_guimaraes@discente.ufg.br,M
+PEDRO PAULO DIAS DOS SANTOS,SISTEMAS DE INFORMAÇÃO,201907493,dos_pedro,dos_pedro@discente.ufg.br,M
+PEDRO VITOR SILVEIRA FAJARDO,SISTEMAS DE INFORMAÇÃO,201907495,pedrofajardo,pedrofajardo@discente.ufg.br,M
+REYDNER MIRANDA NUNES,SISTEMAS DE INFORMAÇÃO,201907501,reydnermiranda,reydnermiranda@discente.ufg.br,M
+ROBERT GABRIEL DA COSTA MADUREIRA,SISTEMAS DE INFORMAÇÃO,201907503,robertmadureira,robertmadureira@discente.ufg.br,M
+TALLES EDUARDO DO AMARAL SALLES,SISTEMAS DE INFORMAÇÃO,201907506,tallessalles,tallessalles@discente.ufg.br,M
+THIAGO BARONI PERES,SISTEMAS DE INFORMAÇÃO,201907507,thiagobaroni,thiagobaroni@discente.ufg.br,M
+THIAGO DA SILVEIRA WEHREN,SISTEMAS DE INFORMAÇÃO,201907508,thiagowehren,thiagowehren@discente.ufg.br,M
+THIAGO MARCOS DA SILVA,SISTEMAS DE INFORMAÇÃO,201907509,thiagomarcos,thiagomarcos@discente.ufg.br,M
+THYAGO COSTA LEAL,SISTEMAS DE INFORMAÇÃO,201907512,thyagocosta,thyagocosta@discente.ufg.br,M
+VALÉRIA ETIENNE TELES BARBOSA,SISTEMAS DE INFORMAÇÃO,201907513,valeriateles,valeriateles@discente.ufg.br,F
+VITOR BARBOSA OLIVEIRA,SISTEMAS DE INFORMAÇÃO,201907514,vitorbarbosa,vitorbarbosa@discente.ufg.br,M
+WANDER ALVES NORONHA RIBEIRO,SISTEMAS DE INFORMAÇÃO,201907517,wanderalves,wanderalves@discente.ufg.br,M
+WILKER DE SOUSA FERREIRA,SISTEMAS DE INFORMAÇÃO,201907518,wilkersousa,wilkersousa@discente.ufg.br,M
+YURI DE SOUZA COSTA,SISTEMAS DE INFORMAÇÃO,201907520,yuricosta,yuricosta@discente.ufg.br,M
+JOAO PEDRO AMARAL DE MOURA,ENGENHARIA DE PRODUÇÃO,201907614,joaomoura,joaomoura@discente.ufg.br,M
+JULIA CAROLINA ROCHA AZEVEDO,ENGENHARIA DE PRODUÇÃO,201907615,juliaazevedo,juliaazevedo@discente.ufg.br,F
+JOAO VITOR LIMA SOUSA,ENGENHARIA DE TRANSPORTES,201907643,vitor_lima,vitor_lima@discente.ufg.br,M
+JONADABE LAUVERS DOS SANTOS MASCENA,ENGENHARIA DE TRANSPORTES,201907644,jonadabelauvers,jonadabelauvers@discente.ufg.br,M
+MARCO TULIO COSTA ARAUJO,ENGENHARIA DE TRANSPORTES,201907652,marcoaraujo,marcoaraujo@discente.ufg.br,M
+IRON MACIEL FERREIRA,GEOLOGIA,201907679,iron.maciel,iron.maciel@discente.ufg.br,M
+NINIVE VIANA NUNES,GEOLOGIA,201907699,niniveviana,niniveviana@discente.ufg.br,F
+GABRIEL BARBOSA DOS ANJOS,CIÊNCIA DA COMPUTAÇÃO,201909738,gabriel.anjos,gabriel.anjos@discente.ufg.br,M
+ARTHUR FARIA PEIXOTO,ENGENHARIA DE SOFTWARE,201910873,arthurfpeixoto,arthurfpeixoto@discente.ufg.br,M
+JAIR SOUZA MEIRA RODRIGUES,ENGENHARIA DE SOFTWARE,201910884,jairsouza,jairsouza@discente.ufg.br,M
+MARINA PEREIRA ALVES,ENGENHARIA DE SOFTWARE,201910896,marina_marina,marina_marina@discente.ufg.br,F
+VITOR HENRIQUE FERREIRA DE BRITO,ENGENHARIA DE SOFTWARE,201910913,britobrito,britobrito@discente.ufg.br,M
+BRENDA ANDREIA LIMA PINHEIRO,SISTEMAS DE INFORMAÇÃO,201912424,brendaandreia,brendaandreia@discente.ufg.br,F
+CARLOS EDUARDO DE ANDRADE SILVA,SISTEMAS DE INFORMAÇÃO,201912426,de_andrade,de_andrade@discente.ufg.br,M
+ESTEFANE MARIANE DA CONCEICAO SOUZA,SISTEMAS DE INFORMAÇÃO,201912434,estefanemariane,estefanemariane@discente.ufg.br,F
+LUCAS MENDES DA SILVA,SISTEMAS DE INFORMAÇÃO,201912449,mendeslucas,mendeslucas@discente.ufg.br,M
+LUCIANO COSTA VIANNA NETO,SISTEMAS DE INFORMAÇÃO,201912450,lucianovianna,lucianovianna@discente.ufg.br,M
+YATHERSON LUCAS TEODORO SOUZA,SISTEMAS DE INFORMAÇÃO,201912485,yathersonlucas,yathersonlucas@discente.ufg.br,M
+LAURA LUIZA SILVA LIMA,ENGENHARIA DE PRODUÇÃO,201912554,lauralima,lauralima@discente.ufg.br,F
+LETICIA AMARAL SANTANA,ENGENHARIA DE PRODUÇÃO,201912555,leticiaamaral,leticiaamaral@discente.ufg.br,F
+PAULO EDUARDO FIDELIS COUTINHO,ENGENHARIA DE PRODUÇÃO,201912565,paulocoutinho,paulocoutinho@discente.ufg.br,M
+DAIRED ALMEIDA CRUZ,CIÊNCIA DA COMPUTAÇÃO,201912945,dairedalmeida,dairedalmeida@discente.ufg.br,F
+IGOR FARIA DE OLIVEIRA,SISTEMAS DE INFORMAÇÃO,201913093,igorfaria,igorfaria@ufg.br,M
+JOÃO VICTOR OTTO NASCIMENTO,CIÊNCIA DA COMPUTAÇÃO,202000180,jvotto,jvotto@discente.ufg.br,M
+MARCIO ALVES RODRIGUES FILHO,CIÊNCIA DA COMPUTAÇÃO,202000184,mrodriguesfilho,mrodriguesfilho@discente.ufg.br,M
+MARCELO HENRIQUE ALVES PEREIRA SOBRINHO,ENGENHARIA AMBIENTAL E SANITÁRIA,202000266,alvesmarcelo,alvesmarcelo@discente.ufg.br,M
+ADRIANO ANADINHO FERREIRA,SISTEMAS DE INFORMAÇÃO,202000507,adrianoanadinho,adrianoanadinho@discente.ufg.br,M
+BEATRIZ BATISTA GUIMARÃES,SISTEMAS DE INFORMAÇÃO,202000508,beatriz.guimaraes,beatriz.guimaraes@discente.ufg.br,F
+FELIPE GABRIEL NUNES SENA,SISTEMAS DE INFORMAÇÃO,202000509,felipe.gabriel83,felipe.gabriel83@discente.ufg.br,M
+GABRIEL AGUIAR DE CASTRO MOURA REZENDE,SISTEMAS DE INFORMAÇÃO,202000510,gabrielcmrezende,gabrielcmrezende@discente.ufg.br,M
+HEITOR VIEIRA MELLO DOS SANTOS,SISTEMAS DE INFORMAÇÃO,202000511,hvmello,hvmello@discente.ufg.br,M
+IGOR MATUSI ROCHA HAYASHIDA,SISTEMAS DE INFORMAÇÃO,202000513,igormatusi,igormatusi@discente.ufg.br,M
+EDUARDO AUGUSTO GOMES COSTA,SISTEMAS DE INFORMAÇÃO,202000699,baed18@gmail.com,baed18@gmail.com,M
+MARCOS VINICIUS DE OLIVEIRA RODRIGUES,SISTEMAS DE INFORMAÇÃO,202000700,marcosrodrigues,marcosrodrigues@discente.ufg.br,M
+GUSTAVO RODRIGUES RIBEIRO,CIÊNCIA DA COMPUTAÇÃO,202003570,ribeirogustavo,ribeirogustavo@discente.ufg.br,M
+JOÃO LUCAS RODRIGUES SOARES,CIÊNCIA DA COMPUTAÇÃO,202003580,soares.joao,soares.joao@discente.ufg.br,M
+MARCOS REGES MOTA,CIÊNCIA DA COMPUTAÇÃO,202003598,regesmota,regesmota@discente.ufg.br,M
+MARIA HELOISA DE PAULA SOUZA,CIÊNCIA DA COMPUTAÇÃO,202003599,heloisa.maria,heloisa.maria@discente.ufg.br,F
+MARIANA DOURADO XIMENES DE SENA SANTOS,CIÊNCIA DA COMPUTAÇÃO,202003601,marianadourado,marianadourado@discente.ufg.br,F
+BÁRBARA NOGUEIRA CARVALHO DA SILVEIRA,ENGENHARIA DE SOFTWARE,202004744,barbaranogueira,barbaranogueira@discente.ufg.br,F
+GABRIEL FORMIGONI DOS SANTOS NETO,ENGENHARIA DE SOFTWARE,202004751,gabrielformigoni,gabrielformigoni@discente.ufg.br,M
+GIOVANNA LYSSA RODRIGUES BORGES TELES,ENGENHARIA DE SOFTWARE,202004754,giovannalyssa,giovannalyssa@discente.ufg.br,F
+GUSTAVO ALVES MARÇAL,ENGENHARIA DE SOFTWARE,202004756,gustavomarcal,gustavomarcal@discente.ufg.br,M
+LUCA SANTOS MARTINS,ENGENHARIA DE SOFTWARE,202004765,lucamartins,lucamartins@discente.ufg.br,M
+MOZANIEL PEREIRA E SILVA CORRÊA,ENGENHARIA DE SOFTWARE,202004773,mozanielpereira,mozanielpereira@discente.ufg.br,M
+NATHAN LUIS COELHO CAMPOS,ENGENHARIA DE SOFTWARE,202004774,nathancampos,nathancampos@discente.ufg.br,M
+ABRÃO ZADOROSNY DA SILVA,SISTEMAS DE INFORMAÇÃO,202006543,abraozadorosny,abraozadorosny@discente.ufg.br,M
+AELTON LOPES DE JESUS,SISTEMAS DE INFORMAÇÃO,202006544,aeltonlopes,aeltonlopes@discente.ufg.br,M
+ANA VITORIA SILVA DA LUZ NASCIMENTO,SISTEMAS DE INFORMAÇÃO,202006547,vitoria_luz,vitoria_luz@discente.ufg.br,F
+ANDERSON GONCALVES ALVES CUNHA FILHO,SISTEMAS DE INFORMAÇÃO,202006548,andersonfilho,andersonfilho@discente.ufg.br,M
+CARLOS AUGUSTO SAMPAIO RAMOS,SISTEMAS DE INFORMAÇÃO,202006549,carlosramos,carlosramos@discente.ufg.br,M
+CARLOS GOUVEIA DO NASCIMENTO NETO,SISTEMAS DE INFORMAÇÃO,202006550,doneto,doneto@discente.ufg.br,M
+DANIEL VIEIRA MARQUES,SISTEMAS DE INFORMAÇÃO,202006551,daniel_marques,daniel_marques@discente.ufg.br,M
+DANILO TORRES PINTO,SISTEMAS DE INFORMAÇÃO,202006552,danilotorres,danilotorres@discente.ufg.br,M
+DAVI PAULINO DA SILVA,SISTEMAS DE INFORMAÇÃO,202006553,davipaulino,davipaulino@discente.ufg.br,M
+EDUARDO DE SOUZA MARTINS,SISTEMAS DE INFORMAÇÃO,202006554,eduardo.martins,eduardo.martins@discente.ufg.br,M
+FELIPE OLIVEIRA PRADO,SISTEMAS DE INFORMAÇÃO,202006555,felipeprado,felipeprado@discente.ufg.br,M
+GABRIEL NUNES RIBEIRO,SISTEMAS DE INFORMAÇÃO,202006557,gabriel_nunes,gabriel_nunes@discente.ufg.br,M
+GUILHERME DE LIMA MOTA,SISTEMAS DE INFORMAÇÃO,202006558,guilherme.mota,guilherme.mota@discente.ufg.br,M
+GUILHERME FERREIRA DE OLIVEIRA,SISTEMAS DE INFORMAÇÃO,202006559,ferreiraguilherme,ferreiraguilherme@discente.ufg.br,M
+GUSTAVO HENRIQUE DOS SANTOS OLIVEIRA,SISTEMAS DE INFORMAÇÃO,202006560,oliveira_gustavo,oliveira_gustavo@discente.ufg.br,M
+ILLIAN YAMANDU SOUZA PEREIRA,SISTEMAS DE INFORMAÇÃO,202006561,illianyamandu,illianyamandu@discente.ufg.br,M
+JOAO MARCOS DE CASTRO ZICA,SISTEMAS DE INFORMAÇÃO,202006562,joaozica,joaozica@discente.ufg.br,M
+JOAO VICTOR RIBAS COELHO,SISTEMAS DE INFORMAÇÃO,202006563,joaocoelho,joaocoelho@discente.ufg.br,M
+JOSE TEIXEIRA MENDES JUNIOR,SISTEMAS DE INFORMAÇÃO,202006565,jose.teixeira,jose.teixeira@discente.ufg.br,M
+LUIS FERNANDO LIMA DAS CHAGAS,SISTEMAS DE INFORMAÇÃO,202006566,luischagas,luischagas@discente.ufg.br,M
+MARQUES VINÍCIUS MELO MARTINS,SISTEMAS DE INFORMAÇÃO,202006568,marquesvinicius,marquesvinicius@discente.ufg.br,M
+MIGUEL ALVES CORDEIRO BRAZ,SISTEMAS DE INFORMAÇÃO,202006571,miguelbraz,miguelbraz@discente.ufg.br,M
+MILLENA DE ABREU QUEIROZ,SISTEMAS DE INFORMAÇÃO,202006572,millenaqueiroz,millenaqueiroz@discente.ufg.br,F
+PEDRO HENRIQUE DE SOUZA RIBEIRO,SISTEMAS DE INFORMAÇÃO,202006573,ribeiro.souza,ribeiro.souza@discente.ufg.br,M
+RAFAEL OLIVEIRA DE MELO,SISTEMAS DE INFORMAÇÃO,202006574,rafaelmelo,rafaelmelo@discente.ufg.br,M
+RILBERT FERNANDO TEIXEIRA SANTOS,SISTEMAS DE INFORMAÇÃO,202006575,rilbertfernando,rilbertfernando@discente.ufg.br,M
+SAMUEL LACERDA DOS SANTOS ABREU,SISTEMAS DE INFORMAÇÃO,202006576,samuellacerda,samuellacerda@discente.ufg.br,M
+SERGIO NATAN COSTA BARBOSA,SISTEMAS DE INFORMAÇÃO,202006577,sergionatan,sergionatan@discente.ufg.br,M
+VINICIUS CORREIA SOARES,SISTEMAS DE INFORMAÇÃO,202006579,correiacorreia,correiacorreia@discente.ufg.br,M
+VITOR MORO RIBEIRO SÁ,SISTEMAS DE INFORMAÇÃO,202006580,vitormoro,vitormoro@discente.ufg.br,M
+VIVIANY RIBEIRO BATISTA,SISTEMAS DE INFORMAÇÃO,202006581,vivianyribeiro,vivianyribeiro@discente.ufg.br,F
+MAURICIO MORAES PRETO CARVALHO,ENGENHARIA DE PRODUÇÃO,202006672,moraesmauricio,moraesmauricio@discente.ufg.br,M
+DAYLLAN JOSÉ DE SOUSA,SISTEMAS DE INFORMAÇÃO,202006865,jdayllan,jdayllan@discente.ufg.br,M
+KURAHA KARAJA,SISTEMAS DE INFORMAÇÃO,202006866,karajakuraha,karajakuraha@discente.ufg.br,M
+GABRIEL CARDOSO DE CASTRO,ENGENHARIA DE SOFTWARE,202009561,cardoso.gabriel,cardoso.gabriel@discente.ufg.br,M
+THÂMARA CORDEIRO DE CASTRO,ENGENHARIA DE SOFTWARE,202009585,thamaracordeiro,thamaracordeiro@discente.ufg.br,F
+FELIPE OLIVEIRA CARVALHO,SISTEMAS DE INFORMAÇÃO,202011561,felipecarvalho,felipecarvalho@discente.ufg.br,M
+GUILHERME DOS SANTOS SILVA,SISTEMAS DE INFORMAÇÃO,202011563,guilhermesilva,guilhermesilva@discente.ufg.br,M
+JOAO VICTOR OLIVEIRA COSTA,SISTEMAS DE INFORMAÇÃO,202011567,joao.costa,joao.costa@discente.ufg.br,M
+JOAO VITOR TEIXEIRA DO NASCIMENTO,SISTEMAS DE INFORMAÇÃO,202011568,teixeira.vitor,teixeira.vitor@discente.ufg.br,M
+MATEUS HENRIQUE CAMPOS TORRES,SISTEMAS DE INFORMAÇÃO,202011577,mateustorres,mateustorres@discente.ufg.br,M
+ALEXANDRE RODRIGUES DA SILVA JUNIOR,SISTEMAS DE INFORMAÇÃO,202014101,silvajunior,silvajunior@discente.ufg.br,M
+LUCA MASCARENHAS PLASTER,CIÊNCIA DA COMPUTAÇÃO,202014610,lucaplaster,lucaplaster@discente.ufg.br,M
+HUGO ALVES DOS SANTOS,ENGENHARIA DE SOFTWARE,202105036,hugosantos,hugosantos@discente.ufg.br,M
+KELVIN DE OLIVEIRA,ENGENHARIA DE SOFTWARE,202105042,kelvin.oliveira,kelvin.oliveira@discente.ufg.br,M
+MARX BERNARDO CHARNESKI BORGES,ENGENHARIA DE SOFTWARE,202105047,marx.bernardo,marx.bernardo@discente.ufg.br,M
+PEDRO EDUARDO MOREIRA CHAMONE,ENGENHARIA DE SOFTWARE,202105051,chamone,chamone@ufg.br,M
+PEDRO LUCAS DE OLIVEIRA LARA,ENGENHARIA DE SOFTWARE,202105052,lara23,lara23@discente.ufg.br,M
+WENDEL MÁRCIO DE OLIVEIRA FILHO,ENGENHARIA DE SOFTWARE,202105056,wendel.filho,wendel.filho@discente.ufg.br,M
+CARLOS MIGUEL BARBOZA,SISTEMAS DE INFORMAÇÃO,202107003,kamig,kamig@discente.ufg.br,M
+CRISTIELLY NUNES LOBO,SISTEMAS DE INFORMAÇÃO,202107004,cristielly_nunes,cristielly_nunes@discente.ufg.br,F
+JOAO FELIPE FERRADO MELO FERNANDES,SISTEMAS DE INFORMAÇÃO,202107022,joaoferrado,joaoferrado@discente.ufg.br,M
+KATHLYN JULLIE SILVA MATA,SISTEMAS DE INFORMAÇÃO,202107024,kathlyn,kathlyn@discente.ufg.br,F
+MARCOS VINICIUS DE SOUSA CURVINA,SISTEMAS DE INFORMAÇÃO,202107029,marcoscurvina,marcoscurvina@discente.ufg.br,M
+RODRIGO DE OLIVEIRA MENDES JUNIOR,SISTEMAS DE INFORMAÇÃO,202107806,rodrigo_mendes,rodrigo_mendes@discente.ufg.br,M
+STEFANY CARDOSO CARRIJO,SISTEMAS DE INFORMAÇÃO,202107807,stefanycardoso,stefanycardoso@discente.ufg.br,F
+HUGO GONZALES SARAIVA,SISTEMAS DE INFORMAÇÃO,202108337,hugogonzales,hugogonzales@discente.ufg.br,M
