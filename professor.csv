@@ -1,0 +1,23 @@
+id_professor,nome_professor,id_unidade,formação_professor,usuário_professor,e-mail_professor,sexo_professor
+1,WALTER BATISTA DOS SANTOS,23,DOUTORADO,wbatista,wbatista@ufg.br,M
+2,WANDERLEY DE SOUZA ALENCAR,9,MESTRADO,wanderleyalencar,wanderleyalencar@ufg.br,M
+3,ELISANGELA SILVA DIAS,9,DOUTORADO,elisangelasd,elisangelasd@ufg.br,F
+4,THIERSON COUTO ROSA,9,DOUTORADO,thierson,thierson@ufg.br,M
+5,VALDEMAR VICENTE GRACIANO NETO,9,DOUTORADO,valdemarneto,valdemarneto@ufg.br,M
+6,VAGNER JOSE DO SACRAMENTO RODRIGUES,9,DOUTORADO,vagnersacramento,vagnersacramento@ufg.br,M
+7,CEDRIC LUIZ DE CARVALHO,9,DOUTORADO,cedric,cedric@ufg.br,M
+8,ALESSANDRO CRUVINEL MACHADO DE ARAUJO,9,MESTRADO,alessandrocma,alessandrocma@ufg.br,M
+9,MAX VALERIO LEMES,23,DOUTORADO,max,max@ufg.br,M
+10,ALEX LEAL MOTA,23,MESTRADO,alexleal,alexleal@ufg.br,M
+11,ANDRE LUIZ MOURA,9,DOUTORADO,andre_moura,andre_moura@ufg.br,M
+12,SAND LUZ CORREA,9,DOUTORADO,sandluz,sandluz@ufg.br,F
+13,ANA CLAUDIA BASTOS LOUREIRO MONCAO,9,MESTRADO,acbloureiro,acbloureiro@ufg.br,F
+14,NADIA FELIX FELIPE DA SILVA,9,DOUTORADO,nadia.felix,nadia.felix@ufg.br,F
+15,JEFFERSON DIVINO GONCALVES DE MELO,23,DOUTORADO,jefferson,jefferson@ufg.br,M
+16,MARCIA RODRIGUES CAPPELLE SANTANA,9,DOUTORADO,mcappelle,mcappelle@ufg.br,F
+17,ELIAS BATISTA FERREIRA,9,MESTRADO,eliasferreira,eliasferreira@ufg.br,M
+18,REINALDO DE SOUZA JUNIOR,9,MESTRADO,reinaldo.junior,reinaldo.junior@ufg.br,M
+19,RENATO DE FREITAS BULCAO NETO,9,DOUTORADO,rbulcao,rbulcao@ufg.br,M
+20,KLEBER VIEIRA CARDOSO,9,DOUTORADO,kleber,kleber@ufg.br,M
+21,DIANE CASTONGUAY,9,DOUTORADO,diane,diane@ufg.br,F
+22,VINICIUS SEBBA PATTO,9,DOUTORADO,viniciussebba,viniciussebba@ufg.br,M
